@@ -12,14 +12,7 @@
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-kazii&theme=dracula" alt="GitHub Streak" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-kazii&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/rehan-kazii/rehan-kazii/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://img.shields.io/badge/Most%20Used%20Language-C-44475A?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="Most Used Language: C" />
 </p>
 
 ---
@@ -37,29 +30,18 @@
 ### 🧰 Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/C-44475A?style=for-the-badge&logo=c&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/C++-44475A?style=for-the-badge&logo=cplusplus&logoColor=BD93F9" />
 <img src="https://img.shields.io/badge/Go-44475A?style=for-the-badge&logo=go&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/Rust-44475A?style=for-the-badge&logo=rust&logoColor=FFB86C" />
 <img src="https://img.shields.io/badge/Linux-44475A?style=for-the-badge&logo=linux&logoColor=F1FA8C" />
 <img src="https://img.shields.io/badge/Git-44475A?style=for-the-badge&logo=git&logoColor=FF5555" />
-<img src="https://img.shields.io/badge/CTF%20Player-44475A?style=for-the-badge&logo=hackthebox&logoColor=50FA7B" />
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cpp logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="52" alt="go logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="45" alt="rust logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
 <img width="12" />
 </p>
 
