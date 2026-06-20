@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Kazi Rehan Bin Hossen</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Aspiring+Offensive+Security+Engineer;Exploring+Low-Level+Systems;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer" alt="Typing SVG" />
+<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Exploring+Low-Level+Systems" alt="Typing SVG" />
 </p>
 <p align="center"><em>Building, breaking, and securing the digital world—one commit at a time.</em></p>
 
